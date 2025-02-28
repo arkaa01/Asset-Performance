@@ -1,4 +1,4 @@
-# **Intern Sample Project - Asset Management System**
+# **Asset Management System**
 
 ## **Prerequisites**
 
