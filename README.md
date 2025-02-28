@@ -24,7 +24,7 @@ This project is an Asset Management System designed using MongoDB, ExpressJS, an
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rishisrivastava07/internProject.git
+   git clone https://github.com/arkaa01/internProject.git
    cd internProject
    ```
 
